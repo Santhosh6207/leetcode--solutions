@@ -22,7 +22,7 @@ class Solution {
             }
            
         }
-        for (int num = 0; num <= max; num++) {
+        for (int num = 0; num <=max; num++) {
             while (cr[num] > 0) {
                 al.add(num);
                 cr[num]--;
