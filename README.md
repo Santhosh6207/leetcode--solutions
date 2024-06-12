@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0876-hand-of-straights) |
+| [0966-binary-subarrays-with-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1137-height-checker) |
 # Hash Table
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0876-hand-of-straights) |
+| [0966-binary-subarrays-with-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0966-binary-subarrays-with-sum) |
 # Math
 |  |
 | ------- |
@@ -28,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0523-continuous-subarray-sum) |
+| [0966-binary-subarrays-with-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1046-max-consecutive-ones-iii) |
 # Sorting
 |  |
@@ -58,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0966-binary-subarrays-with-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1046-max-consecutive-ones-iii) |
 # Greedy
 |  |
