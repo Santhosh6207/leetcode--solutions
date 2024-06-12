@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0648-replace-words) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1137-height-checker) |
 # Counting Sort
@@ -58,3 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0876-hand-of-straights) |
+# Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0075-sort-colors) |
