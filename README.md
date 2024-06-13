@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1137-height-checker) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1137-height-checker) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
 |  |
 | ------- |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0876-hand-of-straights) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Two Pointers
 |  |
 | ------- |
