@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0502-ipo](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0876-hand-of-straights) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1137-height-checker) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -68,9 +70,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0876-hand-of-straights) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0075-sort-colors) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0502-ipo) |
