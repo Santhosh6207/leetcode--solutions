@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0330-patching-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0648-replace-words) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0876-hand-of-straights) |
