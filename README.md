@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0633-sum-of-square-numbers) |
+| [2083-three-divisors](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2083-three-divisors) |
 # Prefix Sum
 |  |
 | ------- |
@@ -119,3 +120,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0503-next-greater-element-ii) |
+# Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2083-three-divisors) |
+# Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2083-three-divisors) |
