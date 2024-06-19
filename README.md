@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0330-patching-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0330-patching-array) |
 | [0496-next-greater-element-i](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0502-ipo) |
+| [0503-next-greater-element-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0648-replace-words) |
 | [0853-most-profit-assigning-work](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0853-most-profit-assigning-work) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0503-next-greater-element-ii) |
 # Design
 |  |
 | ------- |
@@ -116,3 +118,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0503-next-greater-element-ii) |
