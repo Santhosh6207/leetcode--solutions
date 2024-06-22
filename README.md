@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1675-magnetic-force-between-two-balls) |
@@ -34,11 +35,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0648-replace-words](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1370-count-number-of-nice-subarrays) |
 # Math
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2083-three-divisors](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2083-three-divisors) |
 # Prefix Sum
 |  |
@@ -90,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1755-defuse-the-bomb](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1755-defuse-the-bomb) |
 # Greedy
