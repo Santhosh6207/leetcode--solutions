@@ -159,18 +159,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -187,3 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
