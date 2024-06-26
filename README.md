@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0876-hand-of-straights) |
+| [1285-balance-a-binary-search-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Two Pointers
 |  |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
@@ -176,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1285-balance-a-binary-search-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -196,7 +200,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1285-balance-a-binary-search-tree) |
 # Simulation
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0415-add-strings) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1285-balance-a-binary-search-tree) |
