@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0415-add-strings](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0648-replace-words](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0648-replace-words) |
 # Trie
@@ -194,3 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0415-add-strings) |
