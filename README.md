@@ -230,13 +230,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0049-group-anagrams) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0049-group-anagrams) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Counting
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Array
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
