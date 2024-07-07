@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0326-power-of-three) |
+| [1642-water-bottles](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
