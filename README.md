@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2032-largest-odd-number-in-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Counting
 |  |
 | ------- |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0326-power-of-three](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0326-power-of-three) |
 | [1642-water-bottles](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1642-water-bottles) |
+| [2032-largest-odd-number-in-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2645-pass-the-pillow](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
@@ -299,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Linked List
 |  |
 | ------- |
