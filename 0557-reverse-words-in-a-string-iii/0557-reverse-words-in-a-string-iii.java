@@ -1,23 +1,17 @@
 class Solution {
-    public String reverseWords(String s) {
-         StringBuilder ans = new StringBuilder();
-        StringBuilder str = new StringBuilder();
-        int n = s.length();
-        
-        for (int i = 0; i < n; i++) {
-            if (s.charAt(i) == ' ') {
-                ans.append(str.reverse());
-                ans.append(' ');
-                str.setLength(0); // clear the StringBuilder
-            } else {
-                str.append(s.charAt(i));
+    public static String reverseEveryStringInArray(String[] str){
+        StringBuilder result = new StringBuilder();
+        for(int i=0; i<str.length; i++){
+            result.append(new StringBuilder(str[i]).reverse());
+            if(i != str.length-1){
+                result.append(" ");
             }
         }
-        
-        // Append the last word after reversing
-        ans.append(str.reverse());
-        
-        return ans.toString();
+        return result.toString();
     }
-   
+
+    public String reverseWords(String s) {
+        String[] arr = s.split(" ");
+        return reverseEveryStringInArray(arr);
+    }
 }
