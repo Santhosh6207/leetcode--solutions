@@ -1,42 +1,31 @@
 class MyStack {
-    Queue<Integer>q1=new LinkedList<>();
-    Queue<Integer>q2=new LinkedList<>();
+    private Queue<Integer> qe;
 
     public MyStack() {
-        
+        qe = new LinkedList<>();
     }
-    
+
     public void push(int x) {
-        while(!q1.isEmpty())
-        {
-            q2.offer(q1.poll());
-        }
-        q1.offer(x);
-        while(!q2.isEmpty())
-        {
-            q1.offer(q2.poll());
+        // Add the new element
+        qe.add(x);
+        // Rotate the queue to make the new element as the front
+        for (int i = 0; i < qe.size() - 1; i++) {
+            qe.add(qe.remove());
         }
     }
-    
+
     public int pop() {
-        return q1.poll();
+        // Remove and return the front element of the queue
+        return qe.remove();
     }
-    
+
     public int top() {
-        return q1.peek();
-        
+        // Peek at the front element of the queue
+        return qe.peek();
     }
-    
+
     public boolean empty() {
-        return q1.isEmpty();
+        // Return true if the queue is empty, false otherwise
+        return qe.isEmpty();
     }
 }
-
-/**
- * Your MyStack object will be instantiated and called as such:
- * MyStack obj = new MyStack();
- * obj.push(x);
- * int param_2 = obj.pop();
- * int param_3 = obj.top();
- * boolean param_4 = obj.empty();
- */
