@@ -30,7 +30,7 @@ int front;
     }
     
     public boolean empty() {
-        return st.isEmpty()&&st1.isEmpty();
+        return st1.isEmpty()&&st.isEmpty();
     }
 }
 
