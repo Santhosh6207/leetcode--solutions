@@ -1,34 +1,44 @@
 class MyQueue {
-    Stack<Integer> s1; // Stack for push operations
-    Stack<Integer> s2; // Stack for pop and peek operations
-    int front = 0; // Variable to track the front element
-
+Stack<Integer>st;
+Stack<Integer>st1;
+int front;
     public MyQueue() {
-        this.s1 = new Stack<>();
-        this.s2 = new Stack<>();
+        this.st=new Stack<>();
+       this.st1=new Stack<>();
     }
-
+    
     public void push(int x) {
-        if (s1.empty()) {
-            front = x; // Update the front element if s1 is empty
-        }
-        s1.push(x); // Push element onto s1
+        if(st.isEmpty())
+          front=x;
+       st.push(x);
+        
     }
-
+    
     public int pop() {
-        if (s2.isEmpty()) {
-            while (!s1.isEmpty()) {
-                s2.push(s1.pop()); // Transfer elements from s1 to s2 if s2 is empty
-            }
+        if(st1.isEmpty())
+        {
+        while(!st.isEmpty())
+        {
+            st1.push(st.pop());
         }
-        return s2.pop(); // Pop the top element from s2
+        }
+        return st1.pop();
     }
-
+    
     public int peek() {
-        return s2.isEmpty() ? front : s2.peek(); // Return the front element
+       return st1.isEmpty()?front:st1.peek(); 
     }
-
+    
     public boolean empty() {
-        return s1.empty() && s2.empty(); // Check if both stacks are empty
+        return st.isEmpty()&&st1.isEmpty();
     }
 }
+
+/**
+ * Your MyQueue object will be instantiated and called as such:
+ * MyQueue obj = new MyQueue();
+ * obj.push(x);
+ * int param_2 = obj.pop();
+ * int param_3 = obj.peek();
+ * boolean param_4 = obj.empty();
+ */
