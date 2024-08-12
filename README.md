@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2502-sort-the-people](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
@@ -291,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1803-average-waiting-time) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2227-sum-of-subarray-ranges](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2502-sort-the-people](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2846-robot-collisions) |
@@ -308,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2502-sort-the-people](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -445,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Bucket Sort
 |  |
 | ------- |
