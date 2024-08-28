@@ -496,5 +496,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0176-second-highest-salary) |
 | [0620-not-boring-movies](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
