@@ -289,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0455-assign-cookies) |
+| [0747-min-cost-climbing-stairs](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0890-lemonade-change](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -466,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0213-house-robber-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0943-sum-of-subarray-minimums) |
 ## Heap (Priority Queue)
 |  |
