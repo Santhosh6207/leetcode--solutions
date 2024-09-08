@@ -1,18 +1,23 @@
 class Solution {
     public int chalkReplacer(int[] chalk, int k) {
-      int sum=k;
-      int n=chalk.length;
-      int i=0;
-      while(sum>=chalk[i])
-      {
-          sum-=chalk[i];
-          i++;
-          if(i==n)
-          {
-            i=0;
-          }
-          
-      }
-    return i;
+        long sum=0;
+        int n=chalk.length;
+        for(int i=0;i<n;i++)
+        {
+            sum+=chalk[i];
+
+        }
+       if(k>=sum)
+       {
+        k=k%(int)sum;
+       }
+        for(int i=0;i<n;i++)
+        {
+            if(chalk[i]>k)
+              return i;
+              k=k-chalk[i];
+
+        }
+      return 0;
     }
 }
