@@ -264,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0389-find-the-difference) |
+| [0434-number-of-segments-in-a-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0812-rotate-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0812-rotate-string) |
