@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0837-most-common-word](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0837-most-common-word) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0812-rotate-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0812-rotate-string) |
+| [0837-most-common-word](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0837-most-common-word) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -284,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0383-ransom-note](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0837-most-common-word](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0837-most-common-word) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -305,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0455-assign-cookies) |
 | [0747-min-cost-climbing-stairs](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [0837-most-common-word](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0837-most-common-word) |
 | [0890-lemonade-change](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1333-sort-the-jumbled-numbers) |
