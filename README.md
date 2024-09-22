@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0386-lexicographical-numbers) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
@@ -480,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0386-lexicographical-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
