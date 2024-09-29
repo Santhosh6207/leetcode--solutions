@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0136-single-number) |
@@ -477,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -515,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0152-maximum-product-subarray) |
