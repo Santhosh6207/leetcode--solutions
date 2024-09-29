@@ -365,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0171-excel-sheet-column-number) |
@@ -517,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0070-climbing-stairs) |
@@ -580,4 +582,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0040-combination-sum-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
