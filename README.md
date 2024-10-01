@@ -311,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0216-combination-sum-iii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0455-assign-cookies) |
@@ -587,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0216-combination-sum-iii) |
 ## Combinatorics
 |  |
 | ------- |
