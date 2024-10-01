@@ -14,11 +14,11 @@ class Solution {
           hs.add(new ArrayList<>(ds));
           return;
         }
-       
+         find(idx+1,nums,al,ds);
          ds.add(nums[idx]);
          find(idx+1,nums,al,ds);
          ds.remove(ds.size()-1);
-          find(idx+1,nums,al,ds);
+          
 
     }
 }
