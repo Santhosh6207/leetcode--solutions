@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0075-sort-colors) |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0179-largest-number) |
