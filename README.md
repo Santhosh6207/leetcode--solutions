@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0837-most-common-word) |
+| [1078-remove-outermost-parentheses](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -465,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0234-palindrome-linked-list) |
 | [0937-online-stock-span](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1078-remove-outermost-parentheses](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
