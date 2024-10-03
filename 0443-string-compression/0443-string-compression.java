@@ -2,7 +2,7 @@ class Solution {
     public int compress(char[] chars) {
         if(chars.length==1)
            return 1;
-           StringBuilder sb=new StringBuilder();
+           //StringBuilder sb=new StringBuilder();
 
        int index=0;
        int i=0;
