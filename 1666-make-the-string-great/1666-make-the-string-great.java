@@ -2,21 +2,19 @@ class Solution {
     public String makeGood(String s) {
         if(s.length()==1)
           return s;
-        ArrayList<Character>al=new ArrayList<>();
-        al.add(s.charAt(0));
-        for(int i=1;i<s.length();i++)
-        {
-            char ch=s.charAt(i);
-            if(!al.isEmpty()&&(al.get(al.size()-1)+32==ch||al.get(al.size()-1)-32==ch))
-            {
-                al.remove(al.size()-1);
+        StringBuilder stack = new StringBuilder();  // Using StringBuilder as a stack
+
+        for (char ch : s.toCharArray()) {
+            int len = stack.length();
+
+            // If the stack is not empty and the top of the stack cancels with the current character
+            if (len > 0 && Math.abs(stack.charAt(len - 1) - ch) == 32) {
+                stack.deleteCharAt(len - 1);  // Remove the last character if it cancels out
+            } else {
+                stack.append(ch);  // Otherwise, push the current character onto the stack
             }
-            else
-            al.add(s.charAt(i));
         }
-        String str="";
-        for(char ch:al)
-          str+=ch;
-          return str;
+
+        return stack.toString();  // Convert the stack back to a string
     }
 }
