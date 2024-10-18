@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0171-excel-sheet-column-number) |
@@ -403,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0148-sort-list) |
