@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0434-number-of-segments-in-a-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0680-valid-palindrome-ii) |
@@ -548,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0213-house-robber-ii) |
+| [0516-longest-palindromic-subsequence](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0943-sum-of-subarray-minimums) |
 ## Heap (Priority Queue)
