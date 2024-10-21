@@ -1,23 +1,30 @@
 class Solution {
     public char findKthBit(int n, int k) {
-        StringBuilder sb = new StringBuilder("0");
+        // Start with S1 = "0"
+        String s = "0";
+
+        // Build the sequence S_n
         for (int i = 1; i < n; i++) {
-            StringBuilder inverted = new StringBuilder(invert(sb.toString()));
-            sb.append("1").append(inverted.reverse());
+            // Invert S_i, reverse it, and concatenate to form S_(i+1)
+            String inverted = invert(s);
+            String reversed = new StringBuilder(inverted).reverse().toString();
+            s = s + "1" + reversed;  // Create S_(i+1)
         }
-        return sb.charAt(k - 1);
+
+        // Return the k-th bit (adjust for 1-based index)
+        return s.charAt(k - 1);
     }
+
+    // Method to invert (flip 0 to 1 and 1 to 0)
     public String invert(String s) {
-        StringBuilder inverted = new StringBuilder();
-        
-        for (int i = 0; i < s.length(); i++) {
-            if (s.charAt(i) == '0') {
-                inverted.append('1');
+        StringBuilder result = new StringBuilder();
+        for (char c : s.toCharArray()) {
+            if (c == '0') {
+                result.append('1');
             } else {
-                inverted.append('0');
+                result.append('0');
             }
         }
-        
-        return inverted.toString();
+        return result.toString();
     }
 }
