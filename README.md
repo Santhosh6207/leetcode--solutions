@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0491-non-decreasing-subsequences](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0837-most-common-word](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0837-most-common-word) |
 | [1256-rank-transform-of-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0455-assign-cookies) |
+| [0491-non-decreasing-subsequences](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0605-can-place-flowers](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0605-can-place-flowers) |
 | [0747-min-cost-climbing-stairs](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
@@ -593,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0389-find-the-difference) |
+| [0491-non-decreasing-subsequences](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0491-non-decreasing-subsequences) |
 ## Memoization
 |  |
 | ------- |
@@ -617,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0216-combination-sum-iii) |
+| [0491-non-decreasing-subsequences](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0491-non-decreasing-subsequences) |
 ## Combinatorics
 |  |
 | ------- |
