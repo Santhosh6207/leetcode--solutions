@@ -336,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0455-assign-cookies) |
 | [0491-non-decreasing-subsequences](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0605-can-place-flowers](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0605-can-place-flowers) |
+| [0735-asteroid-collision](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0837-most-common-word](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0837-most-common-word) |
@@ -476,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1803-average-waiting-time) |
@@ -491,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1078-remove-outermost-parentheses) |
