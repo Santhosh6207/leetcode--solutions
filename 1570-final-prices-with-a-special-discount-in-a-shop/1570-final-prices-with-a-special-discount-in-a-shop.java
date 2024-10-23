@@ -17,8 +17,7 @@ class Solution {
             }
             st.push(prices[i]);
        } 
-       for(int num:nse)
-        System.out.print(num+" ");
+       
         return nse;
     }
 }
