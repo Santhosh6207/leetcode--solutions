@@ -349,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-sort-the-jumbled-numbers](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -501,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0943-sum-of-subarray-minimums](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -552,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0402-remove-k-digits) |
 | [0937-online-stock-span](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2227-sum-of-subarray-ranges](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Data Stream
 |  |
