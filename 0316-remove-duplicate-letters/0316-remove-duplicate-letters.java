@@ -10,7 +10,7 @@ class Solution {
         } 
         for(int i=0;i<s.length();i++)
         {
-             if(hm.containsKey(s.charAt(i))==true)
+             if(hm.containsKey(s.charAt(i)))
              {
                  hm1.put(s.charAt(i),hm1.getOrDefault(s.charAt(i),0)-1);
                  continue;
