@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2502-sort-the-people](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2846-robot-collisions](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2846-robot-collisions) |
 ## Sorting
 |  |
@@ -394,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2846-robot-collisions](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
@@ -449,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -592,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
