@@ -369,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2846-robot-collisions) |
 ## Sorting
 |  |
@@ -544,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Design
 |  |
 | ------- |
@@ -597,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0943-sum-of-subarray-minimums](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
