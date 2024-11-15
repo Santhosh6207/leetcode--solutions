@@ -664,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1801-average-time-of-process-per-machine) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Prefix Sum
 |  |
 | ------- |
