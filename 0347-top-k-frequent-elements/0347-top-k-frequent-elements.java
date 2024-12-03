@@ -19,7 +19,7 @@ class Solution {
        int ar[]=new int[k];
        for(int i=0;i<k;i++)
        {
-        ar[i] = Objects.requireNonNull(pq.poll()).getKey();
+        ar[i] = pq.poll().getKey();
 
        }
        return ar;    }
