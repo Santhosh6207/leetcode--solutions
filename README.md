@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0110-balanced-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0386-lexicographical-numbers) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
@@ -656,6 +657,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0110-balanced-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -665,6 +667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0110-balanced-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bit Manipulation
 |  |
