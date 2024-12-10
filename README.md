@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0386-lexicographical-numbers](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -618,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0120-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0213-house-robber-ii) |
@@ -659,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -670,6 +673,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bit Manipulation
