@@ -438,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0368-largest-divisible-subset) |
+| [0390-elimination-game](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0390-elimination-game) |
 | [1448-maximum-69-number](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -449,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0326-power-of-three) |
+| [0390-elimination-game](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0390-elimination-game) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2050-count-good-numbers) |
 ## Two Pointers
