@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0279-perfect-squares](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0279-perfect-squares) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
 |  |
@@ -440,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0171-excel-sheet-column-number) |
+| [0279-perfect-squares](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0368-largest-divisible-subset) |
 | [0390-elimination-game](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0390-elimination-game) |
@@ -634,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0368-largest-divisible-subset) |
 | [0516-longest-palindromic-subsequence](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0516-longest-palindromic-subsequence) |
