@@ -304,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1666-make-the-string-great](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1666-make-the-string-great) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -736,6 +737,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Backtracking
 |  |
