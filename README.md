@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2502-sort-the-people) |
@@ -708,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0491-non-decreasing-subsequences) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Memoization
 |  |
 | ------- |
@@ -740,6 +743,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2358-number-of-ways-to-split-array) |
 ## Backtracking
 |  |
