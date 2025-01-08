@@ -305,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1524-string-matching-in-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1666-make-the-string-great](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1666-make-the-string-great) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -382,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1524-string-matching-in-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -587,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1524-string-matching-in-an-array) |
 ## Matrix
 |  |
 | ------- |
