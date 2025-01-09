@@ -320,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2580-circular-sentence) |
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2227-sum-of-subarray-ranges](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2227-sum-of-subarray-ranges) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -592,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0812-rotate-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Matrix
 |  |
