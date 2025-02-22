@@ -403,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-string-matching-in-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -682,6 +683,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0943-sum-of-subarray-minimums](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Heap (Priority Queue)
@@ -809,5 +811,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0219-contains-duplicate-ii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2211-k-radius-subarray-averages](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2211-k-radius-subarray-averages) |
 <!---LeetCode Topics End-->
