@@ -397,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0952-word-subsets) |
+| [0983-validate-stack-sequences](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0983-validate-stack-sequences) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1127-last-stone-weight](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1127-last-stone-weight) |
@@ -570,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0735-asteroid-collision) |
+| [0983-validate-stack-sequences](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0983-validate-stack-sequences) |
 | [1642-water-bottles](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1803-average-waiting-time) |
@@ -596,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [0983-validate-stack-sequences](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0983-validate-stack-sequences) |
 | [1078-remove-outermost-parentheses](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
