@@ -388,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0837-most-common-word](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0837-most-common-word) |
@@ -588,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -653,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
