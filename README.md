@@ -367,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0198-house-robber) |
@@ -470,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0171-excel-sheet-column-number) |
 | [0279-perfect-squares](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0279-perfect-squares) |
@@ -578,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0234-palindrome-linked-list) |
