@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0168-excel-sheet-column-title) |
@@ -583,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0232-implement-queue-using-stacks) |
