@@ -333,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-largest-odd-number-in-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2465-shifting-letters-ii) |
@@ -519,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0680-valid-palindrome-ii) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -553,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -615,6 +618,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2227-sum-of-subarray-ranges](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2470-removing-stars-from-a-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2846-robot-collisions](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2846-robot-collisions) |
