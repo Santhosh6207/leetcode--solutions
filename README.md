@@ -264,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0837-most-common-word](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0837-most-common-word) |
 | [0952-word-subsets](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0952-word-subsets) |
 | [1256-rank-transform-of-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1364-tuple-with-same-product](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1364-tuple-with-same-product) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0837-most-common-word](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0837-most-common-word) |
+| [1364-tuple-with-same-product](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1364-tuple-with-same-product) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -406,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1364-tuple-with-same-product](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1364-tuple-with-same-product) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1524-string-matching-in-an-array) |
