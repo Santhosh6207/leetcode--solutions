@@ -450,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2846-robot-collisions](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2846-robot-collisions) |
 | [3227-find-missing-and-repeated-values](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3483-alternating-groups-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3483-alternating-groups-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -869,6 +870,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2211-k-radius-subarray-averages](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2211-k-radius-subarray-averages) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3483-alternating-groups-ii) |
 ## Number Theory
 |  |
 | ------- |
