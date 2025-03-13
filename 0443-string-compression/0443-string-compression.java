@@ -3,46 +3,32 @@ class Solution {
         if(chars.length==1)
            return 1;
            //StringBuilder sb=new StringBuilder();
+
        int index=0;
+       int i=0;
        int n=chars.length;
-       int count=1;
-       for(int i=1;i<n;i++)
+       int c=0;
+       while(i<n)
        {
-          if(chars[i]==chars[i-1])
-          {
-            count++;
-          }
-          else
-          {
-            if(count<2)
-            {
-                chars[index++]=chars[i-1];
-            }
-            else
-            {
-                chars[index++]=chars[i-1];
-                if(count<10)
-                {
-                    chars[index++]=(char)('0'+count);
-                }
-                else
-                {
-                    String str=Integer.toString(count);
-                    for(char ch1:str.toCharArray())
-                    {
-                        chars[index++]=ch1;
-                    }
-                }
-            }
-            count=1;
-          }
-       }
-       chars[index++]=chars[n-1];
-       if (count > 1) {
-            for (char ch : Integer.toString(count).toCharArray()) {
-                chars[index++] = ch;
-            }
-        }
+        char ch=chars[i];
+           c=0;
+           while(i<n&&chars[i]==ch)
+           {
+            c++;
+            i++;
+           }
+           chars[index]=ch;
+           index++;
+           if(c>1)
+           {
+              String str=Integer.toString(c);
+              for(int j=0;j<str.length();j++)
+              {
+                chars[index++]=str.charAt(j);
+              }
+           }
+          
+    }
      return index;
 }
 }
