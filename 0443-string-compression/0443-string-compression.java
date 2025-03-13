@@ -5,37 +5,44 @@ class Solution {
            //StringBuilder sb=new StringBuilder();
        int index=0;
        int n=chars.length;
-       int c=1;
-        for(int i=1;i<n;i++)
-        
-        {
-            if(chars[i]==chars[i-1])
+       int count=1;
+       for(int i=1;i<n;i++)
+       {
+          if(chars[i]==chars[i-1])
+          {
+            count++;
+          }
+          else
+          {
+            if(count<2)
             {
-                c++;
+                chars[index++]=chars[i-1];
             }
-           else
-           {  
-             chars[index++]=chars[i-1];
-           if(c>1)
-           {
-              String str=Integer.toString(c);
-              for(int j=0;j<str.length();j++)
-              {
-                chars[index++]=str.charAt(j);
-              }
-              
-           }
-           c=1;
-           }
+            else
+            {
+                chars[index++]=chars[i-1];
+                if(count<10)
+                {
+                    chars[index++]=(char)('0'+count);
+                }
+                else
+                {
+                    String str=Integer.toString(count);
+                    for(char ch1:str.toCharArray())
+                    {
+                        chars[index++]=ch1;
+                    }
+                }
+            }
+            count=1;
+          }
+       }
+       chars[index++]=chars[n-1];
+       if (count > 1) {
+            for (char ch : Integer.toString(count).toCharArray()) {
+                chars[index++] = ch;
+            }
         }
-          chars[index++] = chars[n - 1];
-        if (c > 1) {
-            String str = Integer.toString(c);
-            for (int j = 0; j < str.length(); j++) {
-                chars[index++] = str.charAt(j);
-            }
-        } 
-    
      return index;
 }
 }
