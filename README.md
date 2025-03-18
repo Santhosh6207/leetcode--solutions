@@ -455,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2465-shifting-letters-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2465-shifting-letters-ii) |
+| [2478-longest-nice-subarray](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -830,6 +831,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2478-longest-nice-subarray) |
 ## Memoization
 |  |
 | ------- |
@@ -903,6 +905,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2211-k-radius-subarray-averages](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2211-k-radius-subarray-averages) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
