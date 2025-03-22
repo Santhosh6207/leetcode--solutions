@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0733-flood-fill) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -235,11 +236,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0733-flood-fill) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0547-number-of-provinces) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
@@ -903,6 +906,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0547-number-of-provinces) |
+| [2793-count-the-number-of-complete-components](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Sliding Window
 |  |
