@@ -447,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1803-average-waiting-time) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -535,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2050-count-good-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2610-closest-prime-numbers-in-range) |
@@ -848,6 +850,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0491-non-decreasing-subsequences) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2478-longest-nice-subarray) |
@@ -901,10 +904,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0494-target-sum) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -938,4 +943,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2610-closest-prime-numbers-in-range) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
