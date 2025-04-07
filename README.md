@@ -408,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0455-assign-cookies) |
 | [0491-non-decreasing-subsequences](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0494-target-sum) |
@@ -778,6 +779,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0583-delete-operation-for-two-strings) |
