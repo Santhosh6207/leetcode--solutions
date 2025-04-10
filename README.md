@@ -360,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3451-string-compression-iii) |
@@ -546,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2645-pass-the-pillow](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -795,6 +797,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2262-solving-questions-with-brainpower](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
