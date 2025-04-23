@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1500-count-largest-group) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -552,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0390-elimination-game](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0390-elimination-game) |
 | [0797-rabbits-in-forest](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0797-rabbits-in-forest) |
 | [1448-maximum-69-number](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1448-maximum-69-number) |
+| [1500-count-largest-group](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
