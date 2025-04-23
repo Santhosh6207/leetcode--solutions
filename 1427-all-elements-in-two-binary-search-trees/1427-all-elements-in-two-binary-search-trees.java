@@ -18,8 +18,8 @@ class Solution {
     List<Integer>al2=new ArrayList<>();
     public List<Integer> getAllElements(TreeNode root1, TreeNode root2) { 
         ArrayList<Integer>al3=new ArrayList<>();
-        inorder(root1);
-        inorder2(root2);
+        inorder(root1,al);
+        inorder(root2,al2);
         Collections.sort(al);
         Collections.sort(al2);
         int i=0,j=0;
@@ -56,20 +56,20 @@ class Solution {
         }
         return al3;
     }
-    public void inorder(TreeNode root)
+    public void inorder(TreeNode root,List<Integer>List)
     {
         if(root==null)
           return ;
-          inorder(root.left);
-          al.add(root.val);
-          inorder(root.right);
+          inorder(root.left,List);
+          List.add(root.val);
+          inorder(root.right,List);
     }
-    public void inorder2(TreeNode root)
-    {
-        if(root==null)
-          return ;
-          inorder2(root.left);
-          al2.add(root.val);
-          inorder2(root.right);
-    }
+    // public void inorder2(TreeNode root)
+    // {
+    //     if(root==null)
+    //       return ;
+    //       inorder2(root.left);
+    //       al2.add(root.val);
+    //       inorder2(root.right);
+    // }
 }
