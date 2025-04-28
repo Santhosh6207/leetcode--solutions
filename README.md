@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0733-flood-fill) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2793-count-the-number-of-complete-components) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0733-flood-fill) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
@@ -870,6 +872,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
 |  |
@@ -897,6 +900,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Bit Manipulation
 |  |
