@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0386-lexicographical-numbers) |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -883,6 +885,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -916,6 +919,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0543-diameter-of-binary-tree) |
