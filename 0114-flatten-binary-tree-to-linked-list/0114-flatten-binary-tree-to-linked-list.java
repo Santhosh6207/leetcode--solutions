@@ -17,7 +17,7 @@ class Solution {
     Queue<TreeNode>q=new LinkedList<>();
     public void flatten(TreeNode root) {
         helper(root);
-         if (q.isEmpty()) return;
+        // if (q.isEmpty()) return;
         TreeNode help=q.poll();
         while(!q.isEmpty())
         {
