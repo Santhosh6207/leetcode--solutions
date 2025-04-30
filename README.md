@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0110-balanced-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0200-number-of-islands) |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0547-number-of-provinces) |
@@ -675,6 +677,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0148-sort-list) |
@@ -871,6 +874,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0110-balanced-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -901,6 +905,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0110-balanced-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
