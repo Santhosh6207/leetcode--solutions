@@ -461,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1364-tuple-with-same-product](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1364-tuple-with-same-product) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1524-string-matching-in-an-array) |
@@ -576,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0368-largest-divisible-subset) |
 | [0390-elimination-game](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0390-elimination-game) |
 | [0797-rabbits-in-forest](https://github.com/Santhosh6207/leetcode--solutions/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1642-water-bottles) |
