@@ -460,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1127-last-stone-weight](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1127-last-stone-weight) |
 | [1256-rank-transform-of-an-array](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1293-three-consecutive-odds](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Santhosh6207/leetcode--solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
