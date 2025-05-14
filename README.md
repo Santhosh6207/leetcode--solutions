@@ -520,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2915-count-of-interesting-subarrays](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -686,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2681-put-marbles-in-bags](https://github.com/Santhosh6207/leetcode--solutions/tree/master/2681-put-marbles-in-bags) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Santhosh6207/leetcode--solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
